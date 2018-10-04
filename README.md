@@ -5,6 +5,7 @@
 * afstandsberegning
 * gennemsnit af tilfældige tal
 * primtal 2 - 100
+* equals() & toString()
 
 ## Scanner
 Scanner klassen har metoder, der læser næste token/linie fra kommandolinien.
