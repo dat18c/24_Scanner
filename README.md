@@ -38,3 +38,5 @@ useDelimiter("") er en vigtig metode, som vi skal bruge, når vi læser filer.
 ## Øvelser
 * Input af info på studerende i Skole/Studerende.
 * Input af værdier til matematikfunktioner primtal og pythagoras
+* Lav et program, der udregner sum og gennemsnit af positive heltal. Når der tastes 0, skal der beregnes (uden at inkludere 0). Brug en while løkke.
+* self-check ex 25 & 26 p. 215 - 216
